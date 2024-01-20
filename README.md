@@ -4,12 +4,16 @@
 Welcome to ReX, your comprehensive Data Analyst Interview Preparation App! ReX is designed to guide users through the intricacies of data analyst interviews, providing a tailored experience for both technical and behavioral interview scenarios.
 
 ## Features
-1. Interview Type Selection
+**1. Interview Type Selection**
 Upon visiting the website, users are presented with the option to choose between two interview types:
 
-Technical Interview: Dive into a series of technical questions, each followed by instant feedback on clarity, readability, and grammatical errors. The interview continues until the user decides to conclude.
-Behavioral Interview: Engage with dynamically generated behavioral questions, with answers evaluated using the OpenAI API. Receive real-time feedback on communication skills and interview techniques.
-2. Real-time Feedback Loop
+**Technical Interview**: Dive into a series of technical questions, each followed by instant feedback on clarity, readability, and grammatical errors. The interview continues until the user decides to conclude.
+
+
+**Behavioral Interview**: Engage with dynamically generated behavioral questions, with answers evaluated using the OpenAI API. Receive real-time feedback on communication skills and interview techniques.
+
+
+**2. Real-time Feedback Loop**
 Regardless of the chosen interview type, ReX offers an immediate feedback loop after each user response. The feedback includes scores for clarity, readability, and grammatical errors. If a user's response aligns well with the expected answer, a highly evaluated feedback message is delivered.
 
 ## Getting Started

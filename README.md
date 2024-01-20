@@ -23,9 +23,10 @@ To get started with ReX, follow these steps:
 
 bash
 **Copy code :-**
-git clone https://github.com/your-username/data-analyst-interview-prep.git
-cd data-analyst-interview-prep
-Install Dependencies:
+- git clone https://github.com/your-username/data-analyst-interview-prep.git
+- cd data-analyst-interview-prep
+
+### **Install Dependencies:-**
 
 **Copy code :-**
 pip install -r requirements.txt
